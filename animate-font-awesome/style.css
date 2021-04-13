@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#battery,
+#chain,
+#hourglass {
+    font-size: 50px;
+    padding: 50px;
+}
