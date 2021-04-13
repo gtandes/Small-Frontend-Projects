@@ -1,0 +1,4 @@
+[0928/163323.113:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0928/163323.118:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0928/163323.121:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0928/163323.127:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
